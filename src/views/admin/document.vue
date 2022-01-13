@@ -454,6 +454,7 @@ export default {
         tabName: tabs.doc,
         timer: "",
         form: {
+          id: null,
           label: "",
           content: "",
         },
